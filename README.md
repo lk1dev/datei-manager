@@ -1,8 +1,8 @@
-# Dateimanager
+# 📁Dateimanager
 
 Dieses Projekt ist ein einfacher **Dateimanager** in Python, der es dir ermöglicht, grundlegende Dateimanipulationen wie das Anzeigen, Umbenennen, Löschen und Verschieben von Dateien über eine benutzerfreundliche Kommandozeilenoberfläche zu verwalten.
 
-# Installation
+# 🔧Installation
 
 ### Voraussetzungen
 - **Python 3.x** installiert
