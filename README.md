@@ -27,5 +27,5 @@ Führe den folgenden Befehl aus, um den Dateimanager zu starten:
 Um das Projekt auf deinem Computer zu verwenden, klone das Repository:
 
 ```bash
-git clone https://github.com/lk1dev/dateimanager.git
+git clone https://github.com/lk1dev/datei-manager.git
 cd dateimanager
