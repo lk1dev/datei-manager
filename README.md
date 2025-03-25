@@ -23,7 +23,7 @@ Führe den folgenden Befehl aus, um den Dateimanager zu starten:
 5. Verzeichnis wechseln: Ändere das Arbeitsverzeichnis und speichere es.
 6. Beenden: Beendet das Programm.
 
-### Repository klonen
+### Repository klonen:
 Um das Projekt auf deinem Computer zu verwenden, klone das Repository:
 
 ```bash
